@@ -1,4 +1,4 @@
-def dB(x) :
-    return x * 2
-
-
+"""Multiplying by two."""
+def function(arg):
+    """multiply by two"""
+    return arg*2
