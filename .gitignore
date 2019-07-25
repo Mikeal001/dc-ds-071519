@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Data file for .csvs
+data/
+
 # Distribution / packaging
 .Python
 data/
@@ -124,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Large files
+data/
+*.json
+*.zip
